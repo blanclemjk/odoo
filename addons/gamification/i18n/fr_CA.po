@@ -263,35 +263,35 @@ msgstr ""
 #: model:ir.model.fields,field_description:gamification.field_gamification_badge_user_wizard_badge_id
 #: model:ir.ui.view,arch_db:gamification.badge_form_view
 msgid "Badge"
-msgstr ""
+msgstr "Badge"
 
 #. module: gamification
 #: model:ir.ui.view,arch_db:gamification.badge_form_view
 msgid "Badge Description"
-msgstr ""
+msgstr "Description du badge"
 
 #. module: gamification
 #: model:mail.message.subtype,description:gamification.mt_badge_granted
 #: model:mail.message.subtype,name:gamification.mt_badge_granted
 msgid "Badge Granted"
-msgstr ""
+msgstr "Badge octroyé"
 
 #. module: gamification
 #: model:ir.ui.view,arch_db:gamification.badge_list_view
 msgid "Badge List"
-msgstr ""
+msgstr "Liste de badges"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_badge_user_badge_name
 #: model:ir.ui.view,arch_db:gamification.badge_form_view
 msgid "Badge Name"
-msgstr ""
+msgstr "Nom du badge"
 
 #. module: gamification
 #: model:ir.actions.act_window,name:gamification.badge_list_action
 #: model:ir.ui.menu,name:gamification.gamification_badge_menu
 msgid "Badges"
-msgstr ""
+msgstr "Badges"
 
 #. module: gamification
 #: model:ir.ui.view,arch_db:gamification.challenge_form_view
